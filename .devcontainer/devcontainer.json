@@ -1,0 +1,28 @@
+// Author: Chintana Meegamarachchi, chintana@appsolve.com.au
+{
+	"name": "M and A Chatbot",
+	"dockerFile": "Dockerfile",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.shell.linux": "/bin/bash",
+				"editor.defaultFormatter": "esbenp.prettier-vscode",
+				"[typescript]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				},
+				"[javascript]": {
+					"editor.defaultFormatter": "esbenp.prettier-vscode"
+				},
+			},
+			"extensions": [
+				"PKief.material-icon-theme",
+				"esbenp.prettier-vscode",
+				"ms-vscode-remote.remote-containers",
+				"GitHub.copilot", // GitHub Copilot
+				"ms-azuretools.vscode-docker", // Docker
+				"dsznajder.es7-react-js-snippets"
+			],
+			"workbench.iconTheme": "material-icon-theme"
+		}
+	}
+}
