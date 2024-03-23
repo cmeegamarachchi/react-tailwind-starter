@@ -1,5 +1,5 @@
 import React from 'react';
-import { useSideNav } from './SideNavStore';
+import { useSideNav } from '..';
 
 interface Props {
 	text: string

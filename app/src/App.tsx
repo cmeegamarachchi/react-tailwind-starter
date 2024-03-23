@@ -1,5 +1,4 @@
-import { Container, SideNav, SideNavItem } from "./ui-kit";
-import { SideNavContextProvider } from "./ui-kit/SideNav/SideNavStore";
+import { Container, SideNav, SideNavItem, SideNavContextProvider } from "./ui-kit";
 
 const Menus = [
 	{ title: "Dashboard", src: "Chart_fill" },

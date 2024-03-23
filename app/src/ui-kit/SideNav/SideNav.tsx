@@ -1,5 +1,5 @@
 import React, { ReactNode } from 'react'
-import { useSideNav } from './SideNavStore'
+import { useSideNav } from '..'
 
 interface Props {
 	children: ReactNode
