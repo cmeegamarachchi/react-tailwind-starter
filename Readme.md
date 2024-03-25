@@ -6,3 +6,6 @@ cd app
 yarn
 yarn start
 ```
+
+### Menu images
+PNG - 24x24
