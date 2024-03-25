@@ -20,7 +20,8 @@
 				"ms-vscode-remote.remote-containers",
 				"GitHub.copilot", // GitHub Copilot
 				"ms-azuretools.vscode-docker", // Docker
-				"dsznajder.es7-react-js-snippets"
+				"dsznajder.es7-react-js-snippets",
+				"bradlc.vscode-tailwindcss"
 			],
 			"workbench.iconTheme": "material-icon-theme"
 		}
